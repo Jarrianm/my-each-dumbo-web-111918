@@ -7,3 +7,4 @@ if block_given?
   end
   array
 end
+end
